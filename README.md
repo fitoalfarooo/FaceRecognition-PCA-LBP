@@ -13,7 +13,7 @@ pip install opencv-contrib-python
 
 ![ruta](<./assets/ruta.jpeg>) 
 
-3. Execute file "reconocimiento" to obtain the final result of the application.
+3. Execute file "reconocimiento" to obtain the final result of the application. 
 
 ![resultado](<./assets/resultado.jpeg>) 
 
