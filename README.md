@@ -1,19 +1,19 @@
-# Reconocimiento-de-rostros-PCA-LBP
-Algoritmo de reconocimiento de rostros basado en PCA Y LBP - Tarea de semana 8 del curso de Reconocimiento de patrones
+# Face-recognition-PCA-LBP
+Face recognition algorithm based on PCA and LBP - Task of week 8 of the Pattern Recognition course
 
-# Como ejecutarlo?
+# How to run it?
 
-1. Ejecute la siguiente linea para instalar OpenCV y sus dependencias
+1. Run the following line to install OpenCV and its dependencies
 
 ~~~
 pip install opencv-contrib-python
 ~~~
 
-2. En el archivo llamado "reconocimiento" en la linea numero 43 encontrara una variable llamada "ruta" en la cual usted debe digitar la foto de la persona que quiere reconocer. Para casos de prueba el proyecto contiene 1 foto ("warner.jpg") con la cual se puede hacer prueba del reconocimiento de rostros.
+2. In the file called "reconocimiento" in line number 43 you will find a variable called "ruta" in which you must type the photo of the person you want to recognize. For test cases, the project contains 1 photo ("warner.jpg") with which you can test face recognition.
 
 ![ruta](<./assets/ruta.jpeg>) 
 
-3. Ejecutar archivo "reconocimiento" para obtener el resultado final de la aplicacion.
+3. Execute file "reconocimiento" to obtain the final result of the application.
 
 ![resultado](<./assets/resultado.jpeg>) 
 
