@@ -9,11 +9,11 @@ Face recognition algorithm based on PCA and LBP - Task of week 8 of the Pattern 
 pip install opencv-contrib-python
 ~~~
 
-2. In the file called "recognition" in line number 43 you will find a variable called "ruta" in which you must type the photo of the person you want to recognize. For test cases, the project contains 1 photo ("warner.jpg") with which you can test face recognition.
+2. In the file called "reconocimiento" in line number 43 you will find a variable called "ruta" in which you must type the photo of the person you want to recognize. For test cases, the project contains 1 photo ("warner.jpg") with which you can test face recognition.
 
 ![ruta](<./assets/ruta.jpeg>) 
 
-3. Execute file "recognition" to obtain the final result of the application.
+3. Execute file "reconocimiento" to obtain the final result of the application.
 
 ![resultado](<./assets/resultado.jpeg>) 
 
