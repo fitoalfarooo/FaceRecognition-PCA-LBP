@@ -9,13 +9,13 @@ Algoritmo de reconocimiento de rostros basado en PCA Y LBP - Tarea de semana 8 d
 pip install opencv-contrib-python
 ~~~
 
-2. En el archivo llamado "reconocimiento" en la linea numero 43 encontrara una variable llamada "ruta" en la cual usted debe digitar la foto de la persona que quiere reconocer. Para casos de prueba el proyecto contiene 1 foto (warner.jpg) con la cual se puede hacer prueba del reconocimiento de rostros.
+2. En el archivo llamado "reconocimiento" en la linea numero 43 encontrara una variable llamada "ruta" en la cual usted debe digitar la foto de la persona que quiere reconocer. Para casos de prueba el proyecto contiene 1 foto ("warner.jpg") con la cual se puede hacer prueba del reconocimiento de rostros.
 
-![ruta](<./assets/ruta.png>) 
+![ruta](<./assets/ruta.jpeg>) 
 
 3. Ejecutar archivo "reconocimiento" para obtener el resultado final de la aplicacion.
 
-![resultado](<./assets/resultado.png>) 
+![resultado](<./assets/resultado.jpeg>) 
 
 # Perceptron
 
